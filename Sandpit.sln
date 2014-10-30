@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimbusA", "NimbusA\NimbusA.csproj", "{0551D438-460E-4DCD-B28C-05639AC03F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimbusB", "NimbusB\NimbusB.csproj", "{6FDEC9A6-0F2E-4401-A2A1-0E9AE38E1183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Messages\Messages.csproj", "{C3F32936-175B-48E2-B3BC-5227A518D179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0551D438-460E-4DCD-B28C-05639AC03F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0551D438-460E-4DCD-B28C-05639AC03F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0551D438-460E-4DCD-B28C-05639AC03F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0551D438-460E-4DCD-B28C-05639AC03F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDEC9A6-0F2E-4401-A2A1-0E9AE38E1183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDEC9A6-0F2E-4401-A2A1-0E9AE38E1183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDEC9A6-0F2E-4401-A2A1-0E9AE38E1183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDEC9A6-0F2E-4401-A2A1-0E9AE38E1183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F32936-175B-48E2-B3BC-5227A518D179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F32936-175B-48E2-B3BC-5227A518D179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F32936-175B-48E2-B3BC-5227A518D179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F32936-175B-48E2-B3BC-5227A518D179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
